@@ -63,5 +63,6 @@ sidebar_position: 1
   - Sau khi chỉnh sửa, `push` trạng thái mới lên fock repo.
   - Tạo bản so sánh giữa 2 branch của 2 repo, gọi là `pull request`, gửi cho người quản lý có quyền merge code mới vào, sẽ có demo sau.
 
-https://thanhlamkma.github.io/web-knowledge/docs/git/commands
-https://thanhlamkma.github.io/web-knowledge/docs/git/qa
+[Commands page](https://thanhlamkma.github.io/web-knowledge/docs/git/commands)
+
+[Q&A page](https://thanhlamkma.github.io/web-knowledge/docs/git/qa)

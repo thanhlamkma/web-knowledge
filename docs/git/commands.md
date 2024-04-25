@@ -387,5 +387,7 @@ reset
 rebase
 commit --amend
 ```
-https://thanhlamkma.github.io/web-knowledge/docs/git/about
-https://thanhlamkma.github.io/web-knowledge/docs/git/qa
+
+[Commands page](https://thanhlamkma.github.io/web-knowledge/docs/git/about)
+
+[Q&A page](https://thanhlamkma.github.io/web-knowledge/docs/git/qa)
