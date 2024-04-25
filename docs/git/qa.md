@@ -60,6 +60,6 @@ Việc conflict trong git là điều không thể tránh khỏi khi merge hay 
 
 => Nhìn chung mọi câu hỏi đều xoay quanh việc bạn muốn backup code mà chưa thể commit được! Có 1 câu thần chú mà mình hay dùng đó là **git stash** nó cho phép bạn backup mọi lúc, không giới hạn số lần backtup và bạn dễ dàng tra cứu lại những gì bạn backup nữa.
 
-[Commands page](https://thanhlamkma.github.io/web-knowledge/docs/git/about)
+[About page](https://thanhlamkma.github.io/web-knowledge/docs/git/about)
 
-[Q&A page](https://thanhlamkma.github.io/web-knowledge/docs/git/commands)
+[Command page](https://thanhlamkma.github.io/web-knowledge/docs/git/commands)

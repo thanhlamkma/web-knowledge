@@ -388,6 +388,6 @@ rebase
 commit --amend
 ```
 
-[Commands page](https://thanhlamkma.github.io/web-knowledge/docs/git/about)
+[About page](https://thanhlamkma.github.io/web-knowledge/docs/git/about)
 
 [Q&A page](https://thanhlamkma.github.io/web-knowledge/docs/git/qa)
