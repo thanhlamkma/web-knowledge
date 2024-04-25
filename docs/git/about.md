@@ -62,3 +62,6 @@ sidebar_position: 1
   - `Clone` fock repo từ kho về máy tính cá nhân.
   - Sau khi chỉnh sửa, `push` trạng thái mới lên fock repo.
   - Tạo bản so sánh giữa 2 branch của 2 repo, gọi là `pull request`, gửi cho người quản lý có quyền merge code mới vào, sẽ có demo sau.
+
+https://thanhlamkma.github.io/web-knowledge/docs/git/commands
+https://thanhlamkma.github.io/web-knowledge/docs/git/qa
