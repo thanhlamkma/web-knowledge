@@ -59,3 +59,6 @@ Việc conflict trong git là điều không thể tránh khỏi khi merge hay 
 **9. Mình đang làm branch hiện tại chưa muốn commit, mà phải qua branch khác fix bug dùm member vậy thì phải làm sao?**
 
 => Nhìn chung mọi câu hỏi đều xoay quanh việc bạn muốn backup code mà chưa thể commit được! Có 1 câu thần chú mà mình hay dùng đó là **git stash** nó cho phép bạn backup mọi lúc, không giới hạn số lần backtup và bạn dễ dàng tra cứu lại những gì bạn backup nữa.
+
+https://thanhlamkma.github.io/web-knowledge/docs/git/about
+https://thanhlamkma.github.io/web-knowledge/docs/git/commands
