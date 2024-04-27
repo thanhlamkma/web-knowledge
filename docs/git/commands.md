@@ -146,6 +146,12 @@ git fetch <remote_name>
 git fetch <remote_name> --prune
 ```
 
+- Git copy file from other branch:
+
+```
+git checkout <branch-name> file.css
+```
+
 ##### Main commands
 
 **1. Init**
