@@ -55,7 +55,9 @@ git commit --amend --no-edit
 Việc conflict trong git là điều không thể tránh khỏi khi merge hay rebase branch khác mà làm chung trên 1 file, *mình chưa thấy dẫn chứng nào là rebase conflict nhiều hơn merge*
 
 **7. Trước khi commit mới thì mình phải pull code mới về, mà nếu gặp conflict thì phải xử lý, nếu xử lý ko khéo thì mất code của mình làm, vậy phải làm sao đây?**
+
 **8. Nếu chỉ backup 1 lần cho 1 commit thì cực quá vì pull nhiều branch thì sao?**
+
 **9. Mình đang làm branch hiện tại chưa muốn commit, mà phải qua branch khác fix bug dùm member vậy thì phải làm sao?**
 
 => Nhìn chung mọi câu hỏi đều xoay quanh việc bạn muốn backup code mà chưa thể commit được! Có 1 câu thần chú mà mình hay dùng đó là **git stash** nó cho phép bạn backup mọi lúc, không giới hạn số lần backtup và bạn dễ dàng tra cứu lại những gì bạn backup nữa.
